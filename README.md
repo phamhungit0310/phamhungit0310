@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hung Pham
 
-<!--
-**phamhungit0310/phamhungit0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer in Ho Chi Minh City. 9 years of experience, mostly Go now, with Python and TypeScript (NestJS) before and alongside it.
 
-Here are some ideas to get you started:
+Most of my recent work is payments, PostgreSQL, and features built on LLM and speech APIs. I care about code that is easy to read and review.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Public work
+
+- [go-service-blueprint](https://github.com/phamhungit0310/go-service-blueprint) - a small Go HTTP service written to be read: layered structure, versioned SQL migrations checked against GORM models, a transactional outbox for signed webhooks, and tests that run against a real Postgres.
+
+Most of my work lives in private client repositories, so it does not show up here.
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/pham-hung-828861165/
+- Email: phamhungit0310@gmail.com
